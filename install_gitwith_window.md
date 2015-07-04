@@ -14,3 +14,6 @@ $ git config --golbal user.email 283125476@qq.com
 ```
 
 如果其它项目要用到其它的用户名，那么只需要去掉--global选项重要配置即可，新的设定保存当前项目.git/config文件里
+
+##查看配置信息
+$ git config --list
