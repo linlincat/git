@@ -108,4 +108,4 @@ Git提供了个我还跳过使用暂存区域的方式。
 
 ```java
 $ git rm --cached fileName
-``
+```
